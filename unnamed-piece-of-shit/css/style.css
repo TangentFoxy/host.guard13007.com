@@ -1,0 +1,34 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-size: 16px;
+	/*font: 16px 'Comic Sans MS', Arial, sans-serif;*/
+	/*I just couldn't stand having everything in comic sans, it was killing me.*/
+}
+body {
+	background: #DDE;
+}
+h1,h2 {
+	margin: 7px;
+	color:#235;
+}
+h1 {
+	font: 40px 'Comic Sans MS', Arial, sans-serif;
+}
+/*h2 {
+	font: 30px 'Comic Sans MS', Arial, sans-serif;
+}*/
+h2>a {
+	font: 30px 'Comic Sans MS', Arial, sans-serif;
+	color: #235;
+	text-decoration: none;
+}
+p {
+	margin-left: 9px;
+	margin-bottom: 5px;
+}
+#container {
+	margin: 0px auto;
+	min-width: 500px;
+	max-width: 900px;
+}

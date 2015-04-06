@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<channel>
+		<atom:link href="http://host.guard13007.com/unnamed-piece-of-shit/rss" rel="self" type="application/rss+xml"/>
+		<title>an Unnamed Piece of Shit</title>
+		<pubDate>Thu, 05 Jun 2014 22:58:00 +0700</pubDate>
+		<lastBuildDate>Thu, 05 Jun 2014 22:58:00 +0700</lastBuildDate>
+		<generator>handcoded using other feeds as reference</generator>
+		<link>http://host.guard13007.com/unnamed-piece-of-shit</link>
+		<language>en</language>
+		<copyright><![CDATA[Guard13007]]></copyright>
+		<docs>http://host.guard13007.com/unnamed-piece-of-shit</docs>
+		<managingEditor>paul.liverman.iii@gmail.com (paul.liverman.iii@gmail.com)</managingEditor>
+		<description><![CDATA[an Unnamed Piece of Shit is exactly what it says on the tin, the tin being a shitty Paint image titling this piece of shit. Also known as Guard13007 occasionally rambling half-heartedly or uninformedly about things.]]></description>
+		<image>
+			<url>http://host.guard13007.com/unnamed-piece-of-shit/image</url>
+			<title>an Unnamed Piece of Shit</title>
+			<link><![CDATA[http://host.guard13007.com/unnamed-piece-of-shit]]></link>
+		</image>
+		<itunes:author>Guard13007</itunes:author>
+		<itunes:keywords>tech,Guard13007,shitty,random,infrequent,stuff</itunes:keywords>
+		<itunes:category text="Society &amp; Culture">
+			<itunes:category text="Personal Journals"/>
+		</itunes:category>
+		<itunes:category text="Technology">
+			<itunes:category text="Podcasting"/>
+		</itunes:category>
+		<itunes:image href="http://host.guard13007.com/unnamed-piece-of-shit/image" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:owner>
+			<itunes:name><![CDATA[Guard13007]]></itunes:name>
+			<itunes:email>paul.liverman.iii@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:summary><![CDATA[an Unnamed Piece of Shit is exactly what it says on the tin, the tin being a shitty Paint image titling this piece of shit. Also known as Guard13007 occasionally rambling half-heartedly or uninformedly about things.]]></itunes:summary>
+		<itunes:subtitle><![CDATA[it really is, actually]]></itunes:subtitle>
+		<item>
+			<title>Net Neutrality</title>
+			<pubDate>Fri, 26 Sep 2014 16:00:00 +0800</pubDate>
+			<link><![CDATA[http://host.guard13007.com/unnamed-piece-of-shit/post/2]]></link>
+			<itunes:image href="http://host.guard13007.com/unnamed-piece-of-shit/image" />
+			<description><![CDATA[More stuff about the whole net neutrality issue.]]></description>
+			<enclosure length="429" type="audio/mpeg" url="http://host.guard13007.com/unnamed-piece-of-shit/mp3/Net%20Neutrality.mp3" />
+			<itunes:duration>07:09</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>Net Neutrality,debate,news,informative,info</itunes:keywords>
+			<itunes:subtitle><![CDATA[More stuff about the whole net neutrality issue.]]></itunes:subtitle>
+		</item>
+		<item>
+			<title>Net Neutrality Debate</title>
+			<pubDate>Tue, 24 Jun 2014 23:20:00 +0700</pubDate>
+			<link><![CDATA[http://host.guard13007.com/unnamed-piece-of-shit/post/1]]></link>
+			<itunes:image href="http://host.guard13007.com/unnamed-piece-of-shit/image" />
+			<description><![CDATA[This is a clip cut from Linux Outlaws episode 349, which in turn was cut from an episode of No Agenda. I feel it is very important to have more discussion on the issue because there is a lot of ignorance and mis-information out there, including perhaps some of what is discussed here.]]></description>
+			<enclosure length="1369" type="audio/mpeg" url="http://host.guard13007.com/unnamed-piece-of-shit/mp3/Net%20Neutrality%20Debate.mp3" />
+			<itunes:duration>22:49</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>Net Neutrality,debate,news,No Agenda</itunes:keywords>
+			<itunes:subtitle><![CDATA[I feel it is important to spread some of the debate about net neutrality, as it is a complex subject.]]></itunes:subtitle>
+		</item>
+		<item>
+			<title>No Making Money From Minecraft?</title>
+			<pubDate>Thu, 05 Jun 2014 22:58:00 +0700</pubDate>
+			<link><![CDATA[http://host.guard13007.com/unnamed-piece-of-shit/post/0]]></link>
+			<itunes:image href="http://host.guard13007.com/unnamed-piece-of-shit/image" />
+			<description><![CDATA[Minecraft is changing its EULA to stop you making money from Minecraft.]]></description>
+			<enclosure length="497" type="audio/mpeg" url="http://host.guard13007.com/unnamed-piece-of-shit/mp3/No%20Making%20Money%20From%20Minecraft.mp3" />
+			<itunes:duration>8:17</itunes:duration>
+			<itunes:explicit>yes</itunes:explicit>
+			<itunes:keywords>Minecraft,EULA,DDoS,authentication,Mojang</itunes:keywords>
+			<itunes:subtitle><![CDATA[Minecraft is changing its EULA to stop you making money from Minecraft.]]></itunes:subtitle>
+		</item>
+	</channel>
+</rss>
