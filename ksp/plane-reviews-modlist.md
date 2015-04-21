@@ -1,0 +1,17 @@
+## For my plane reviews, the background mods I typically use are:
+
+- Active Texture Management (texture compression, less memory usage)
+- Better Buoyancy (water acts more like water)
+- CollisionFX (pretty sparks)
+- Destruction Effects (pretty explosions and fires and smoke)
+- GHud (gives me a HUD on my keyboard)
+- HyperEdit (in case I need to move a plane to another planet for testing)
+- Improved Chase Camera (follows velocity vector instead of vessel direction)
+- KerbinSide (bunch of stuff on Kerbin to launch from / land at / fly by)
+- Kerbal Konstructs (allows KerbinSide to work)
+- Smoke Screen (? I guess smoke effects of some kind xD)
+- Landing Height (adjusts altitude meter to be based on lowest part of vessel)
+- Planet Shine (makes planets reflect sunlight)
+- Show All Fuels (shows all fuels an engine is using on the staging bar)
+- Smart Stage (can help you plan staging / see how a rocket will perform..dunno why I chose it for plane reviews actually)
+- Trajectories (plots a trajectory taking into account drag to help you plan landings, may not be working)
